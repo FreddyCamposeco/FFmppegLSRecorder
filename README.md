@@ -1,7 +1,7 @@
 # FFmppegLSRecorder
 **FFmppeg Linux Screen Recorder**
 
-A smple record script on bash for FFmppeg on linux (Archlinux)
+A smple record script on shell for FFmppeg on linux (Archlinux)
 
 ## DATE= 
     Get Date from System.
